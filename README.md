@@ -39,28 +39,11 @@ MindScan/
 └── requirements.txt         # Project dependencies
 ```
 
-## Setup & Running Locally
+## Screenshots
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/arathyjose/MindScan.git
-   cd MindScan
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Create a `.env` file in the project root and add your own API key:
-   ```
-   GROQ_API_KEY=your_api_key_here
-   ```
-
-4. Run the app:
-   ```bash
-   streamlit run app.py
-   ```
+[App Home](screenshots/home.png)
+[Prediction Result](screenshots/result.png)
+-->
 
 ## Motivation
 
